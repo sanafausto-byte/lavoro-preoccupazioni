@@ -10,7 +10,7 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "lavoro-preoccupazioni"
-database_id = "INSERISCI_QUI_DATABASE_ID"
+database_id = "8777d319-61fc-4090-bf1a-2a973189ec13"
 migrations_dir = "migrations"
 
 [vars]
